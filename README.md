@@ -1,5 +1,7 @@
 # C#LCULATOR.CS
 
+![Cover](https://github.com/john5ouza/calculator.cs/assets/63263864/adff1e3d-7336-4213-9bb8-211c42c80ca6)
+
 This repository contains a straightforward yet functional C# program acting as a basic calculator. The application allows users to select from basic arithmetic operations: addition, subtraction, multiplication, and division. It's designed to be user-friendly and provides prompt feedback.
 
 ## Code Description
