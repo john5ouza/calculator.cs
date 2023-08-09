@@ -1,4 +1,4 @@
-## C#LCULATOR.CS
+# C#LCULATOR.CS
 
 This repository contains a straightforward yet functional C# program acting as a basic calculator. The application allows users to select from basic arithmetic operations: addition, subtraction, multiplication, and division. It's designed to be user-friendly and provides prompt feedback.
 
